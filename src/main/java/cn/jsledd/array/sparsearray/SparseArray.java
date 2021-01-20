@@ -1,6 +1,4 @@
-package cn.jsledd.sparsearray;
-
-import java.util.Collections;
+package cn.jsledd.array.sparsearray;
 
 /**
  * @version 1.0
