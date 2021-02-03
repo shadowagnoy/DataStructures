@@ -7,5 +7,6 @@
 - 链表
   - [单链表](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/linkedList/SingleLinkedListDemo.java)
   - [环形单链表以及约瑟夫问题](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/linkedList/Josepfu.java)
-  
+- 栈
+  - [逆波兰表达式](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/stack/ReversePolishNotation.java) 
 
