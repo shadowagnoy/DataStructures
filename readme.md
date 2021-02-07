@@ -13,4 +13,12 @@
 ## LeetCode 算法题目
 
 - 数组
-  - [26.删除排序数组中的重复项](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/RemoveDuplicatesFromSortedArray.java)
+  - 初级
+    - [26.删除排序数组中的重复项](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/RemoveDuplicatesFromSortedArray.java)
+    - [66.加一](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/PlusOne.java)
+    - [122.买卖股票的最佳时机 II](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/BestTimeToBuyAndSellStock_ii.java)
+    - [136.只出现一次的数字](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/SingleNumber.java)
+    - [189.旋转数组](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/RotateArray.java)
+    - [217.存在重复元素](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/ContainsDuplicate.java)
+    - [350.两个数组的交集 II](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/IntersectionOfTwoArrays_ii.java)
+    
