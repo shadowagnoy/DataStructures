@@ -35,3 +35,6 @@
     - [344. 反转字符串](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/ReverseString.java)
   - 中级
     - [165. 比较版本号](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/CompareVersionNumbers.java)
+- 链表
+  - 初级
+    - [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/linkedList/LianBiaoZhongDaoShuDiKgeJieDianLcof.java)
