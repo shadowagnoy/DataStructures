@@ -13,7 +13,7 @@
 ## LeetCode 算法题目
 
 - 数组
-  - 初级
+  - 简单
     - [26.删除排序数组中的重复项](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/RemoveDuplicatesFromSortedArray.java)
     - [36. 有效的数独](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/ValidSudoku.java)
     - [48. 旋转图像](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/RotateImage.java)
@@ -26,15 +26,20 @@
     - [350.两个数组的交集 II](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/IntersectionOfTwoArrays_ii.java)
 
 - 字符串
-  - 初级
+  - 简单
     - [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/FirstUniqChar.java)
     - [7. 整数反转](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/ReverseInteger.java)
     - [8. 字符串转换整数 (atoi)](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/StringToIntegerAtoi.java)
     - [125. 验证回文串](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/ValidPalindrome.java)
     - [242. 有效的字母异位词](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/ValidAnagram.java)
     - [344. 反转字符串](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/ReverseString.java)
-  - 中级
+  - 中等
     - [165. 比较版本号](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/CompareVersionNumbers.java)
 - 链表
-  - 初级
+  - 简单
     - [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/linkedList/LianBiaoZhongDaoShuDiKgeJieDianLcof.java)
+
+- 堆
+  - 中等
+    - [面试题 17.14. 最小K个数](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/heap/SmallestKLcci.java)
+
