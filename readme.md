@@ -33,6 +33,7 @@
     - [125. 验证回文串](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/ValidPalindrome.java)
     - [242. 有效的字母异位词](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/ValidAnagram.java)
     - [344. 反转字符串](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/ReverseString.java)
+    - [1221. 分割平衡字符串](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/SplitAstringInBalancedStrings.java)
   - 中等
     - [165. 比较版本号](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/CompareVersionNumbers.java)
 - 链表
@@ -45,5 +46,7 @@
 
 - 位运算
   - 简单
+    - [190. 颠倒二进制位](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/bit/NumberOf1Bits.java)
+    - [191. 位1的个数](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/bit/ReverseBits.java)
     - [405. 数字转换为十六进制数](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/bit/ConvertAnumberToHexadecimal.java)
     - [504. 七进制数](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/bit/Base7.java)
