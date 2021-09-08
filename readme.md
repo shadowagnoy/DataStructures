@@ -44,9 +44,13 @@
   - 中等
     - [面试题 17.14. 最小K个数](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/heap/SmallestKLcci.java)
 
+  - 困难
+    - [502. IPO](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/heap/IPO.java)
+
 - 位运算
   - 简单
     - [190. 颠倒二进制位](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/bit/NumberOf1Bits.java)
     - [191. 位1的个数](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/bit/ReverseBits.java)
     - [405. 数字转换为十六进制数](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/bit/ConvertAnumberToHexadecimal.java)
+
     - [504. 七进制数](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/bit/Base7.java)
