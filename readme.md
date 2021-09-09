@@ -26,7 +26,7 @@
     - [350.两个数组的交集 II](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/IntersectionOfTwoArrays_ii.java)
 
 - 字符串
-  - 简单
+  - 简
     - [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/FirstUniqChar.java)
     - [7. 整数反转](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/ReverseInteger.java)
     - [8. 字符串转换整数 (atoi)](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/StringToIntegerAtoi.java)
@@ -36,21 +36,22 @@
     - [1221. 分割平衡字符串](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/SplitAstringInBalancedStrings.java)
   - 中等
     - [165. 比较版本号](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/CompareVersionNumbers.java)
+  - 困难
+    - [68. 文本左右对齐](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/string/TextJustification.java)
 - 链表
   - 简单
-    - [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/linkedList/LianBiaoZhongDaoShuDiKgeJieDianLcof.java)
+    - [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/linkedList/LianBiaoZhongDaoShuDiKgeJieDianLcof.java)
 
 - 堆
   - 中等
-    - [面试题 17.14. 最小K个数](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/heap/SmallestKLcci.java)
+    - [面试题 17.14. 最小K个数](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/heap/SmallestKLcci.java)
 
   - 困难
-    - [502. IPO](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/heap/IPO.java)
+    - [502. IPO](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/heap/IPO.java)
 
 - 位运算
   - 简单
-    - [190. 颠倒二进制位](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/bit/NumberOf1Bits.java)
-    - [191. 位1的个数](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/bit/ReverseBits.java)
-    - [405. 数字转换为十六进制数](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/bit/ConvertAnumberToHexadecimal.java)
-
-    - [504. 七进制数](https://github.com/shadowagnoy/DataStructures/tree/master/src/main/java/cn/jsledd/bit/Base7.java)
+    - [190. 颠倒二进制位](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/bit/NumberOf1Bits.java)
+    - [191. 位1的个数](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/bit/ReverseBits.java)
+    - [405. 数字转换为十六进制数](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/bit/ConvertAnumberToHexadecimal.java)
+    - [504. 七进制数](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/bit/Base7.java)
