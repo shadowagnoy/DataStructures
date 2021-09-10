@@ -24,6 +24,8 @@
     - [217.存在重复元素](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/ContainsDuplicate.java)
     - [283. 移动零](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/MoveZeroes.java)
     - [350.两个数组的交集 II](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/IntersectionOfTwoArrays_ii.java)
+  - 中等
+    - [1894. 找到需要补充粉笔的学生编号](https://github.com/shadowagnoy/DataStructures/blob/master/src/main/java/cn/jsledd/leetcode/array/FindTheStudentThatWillReplaceTheChalk.java)
 
 - 字符串
   - 简
